@@ -3,7 +3,7 @@
 #### I'm a Software Developer based in Vancouver, Canada. I love learning about new technologies and how they can help solve complex real-world problems. Feel free to reach out to me with any opportunities in programming!
 
 - 🌱 Incoming Software Developer Intern @**Clir Renewables**, which turns renewable energy data into action
-- 🎓 Computer Systems Technology student at **BCIT**, Bachelor of Commerce (Finance and BTM) from the **University of British Columbia**
+- 🎓 Computer Systems Technology student at **BCIT**, BCom (Finance and BTM) from the **University of British Columbia**
 - ⚙️ Programming languages I work with: <code>Python</code>, <code>Java</code>, <code>JavaScript</code>, <code>C</code>, <code>SQL</code>
 - 💻 Web development tools I work with: <code>React</code>, <code>Node</code>, <code>Express</code>, <code>Spring Boot</code>, <code>Rest API</code>, <code>Firebase</code>, <code>HTML/CSS</code>
 - 📫 Reach me at: shen.leo@outlook.com
