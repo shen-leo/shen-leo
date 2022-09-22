@@ -1,6 +1,8 @@
 ## Hey everyone, I'm Leo!
 
-#### I'm a Software Developer based in Vancouver, Canada. I have experience in backend development, platform infrastructure, and DevOps. I love learning about scalable architecture and how it can help solve complex real-world problems. My goal is to learn as much as possible about programming and eventually become a systems architect! Feel free to reach out to me with any opportunities in programming!
+#### I'm a Software Developer based in Vancouver, Canada. I have experience in backend development, platform infrastructure, and DevOps.
+
+I love learning about scalable architecture and how it can help solve complex real-world problems. My goal is to learn as much as possible about programming and eventually become a systems architect! Feel free to reach out to me with any opportunities in programming!
 
 - 🐋 Software Developer Intern @ **SAP**, working on platform infrastructure
 - 🎓 Computer Systems student at **BCIT**, BCom (Finance and BTM) from the **University of British Columbia**
