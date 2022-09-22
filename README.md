@@ -1,11 +1,13 @@
 ## Hey everyone, I'm Leo!
 
-#### I'm a Software Developer based in Vancouver, Canada. I love learning about new technologies and how they can help solve complex real-world problems. Feel free to reach out to me with any opportunities in programming!
+#### I'm a Software Developer based in Vancouver, Canada. I have experience in backend development, platform infrastructure, and DevOps. I love learning about scalale architecture and how it can help solve complex real-world problems. My goal is to learn as much as possible about programming and eventually become a system architect! Feel free to reach out to me with any opportunities in programming!
 
-- 🐋 Software Developer Intern @ **SAP**, working on the HANA and Analytics team
-- 🎓 Computer Systems Technology student at **BCIT**, BCom (Finance and BTM) from the **University of British Columbia**
-- ⚙️ Programming languages I work with: <code>Python</code>, <code>Java</code>, <code>JavaScript</code>, <code>C</code>, <code>SQL</code>
-- 💻 Web development tools I work with: <code>React</code>, <code>Node</code>, <code>Express</code>, <code>Spring Boot</code>, <code>Rest API</code>, <code>Firebase</code>, <code>HTML/CSS</code>
+- 🐋 Software Developer Intern @ **SAP**, working on platform infrastructure
+- 🎓 Computer Systems student at **BCIT**, BCom (Finance and BTM) from the **University of British Columbia**
+- ⚙️ Programming languages I work with: <code>Python</code>, <code>Java</code>, <code>Go</code>, <code>JavaScript/TypeScript</code>, <code>C/C++</code>, <code>SQL</code>
+- 💻 Web development tools I work with: <code>React</code>, <code>Node</code>, <code>Express</code>, <code>Spring Boot</code>, <code>Rest API</code>,  <code>HTML/CSS</code>
+- 📦 Infrastructure tools I work with: <code>Terraform</code>, <code>Ansible</code>, <code>Docker</code>, <code>Packer</code>
+- ☁️ Cloud computing services I work with: <code>AWS</code>, <code>Azure</code>, <code>GCP</code>, <code>Alibaba Cloud</code>
 - 📫 Reach me at: shen.leo@outlook.com
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/shen-leo/)
 </br>
