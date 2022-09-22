@@ -1,6 +1,6 @@
 ## Hey everyone, I'm Leo!
 
-#### I'm a Software Developer based in Vancouver, Canada. I have experience in backend development, platform infrastructure, and DevOps. I love learning about scalale architecture and how it can help solve complex real-world problems. My goal is to learn as much as possible about programming and eventually become a system architect! Feel free to reach out to me with any opportunities in programming!
+#### I'm a Software Developer based in Vancouver, Canada. I have experience in backend development, platform infrastructure, and DevOps. I love learning about scalable architecture and how it can help solve complex real-world problems. My goal is to learn as much as possible about programming and eventually become a systems architect! Feel free to reach out to me with any opportunities in programming!
 
 - 🐋 Software Developer Intern @ **SAP**, working on platform infrastructure
 - 🎓 Computer Systems student at **BCIT**, BCom (Finance and BTM) from the **University of British Columbia**
@@ -19,6 +19,11 @@
   <em>“Life moves pretty fast. If you don’t stop and look around once in a while, you could miss it."</em> - Ferris Bueller
 </p>
 
+#### Cool Videos I Recommend
+- [Riot Games launching VALORANT with AWS Outposts](https://www.youtube.com/watch?v=oGK-ojM7ZMc&t=663s&ab_channel=AWSEvents)
+- [VALORANT netcode and 128-tick servers](https://www.youtube.com/watch?v=_Cu97mr7zcM&t=116s&ab_channel=VALORANT)
+- [Taco Bell's order middleware for delivery scalability](https://www.youtube.com/watch?v=sezX7CSbXTg&t=4s&ab_channel=AmazonWebServices)
+- [Riot Games' data ingest pipeline for League of Legends](https://www.youtube.com/watch?v=iwZLadQ3XpY&ab_channel=AmazonWebServices)
 
 <!---
 shen-leo/shen-leo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
