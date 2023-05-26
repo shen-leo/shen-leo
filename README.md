@@ -5,7 +5,7 @@
 I love learning about scalable architecture and how it can help solve complex real-world problems. My goal is to learn as much as possible about programming and eventually become a systems architect! Feel free to reach out to me with any opportunities in programming!
 
 
-- 🎮 Cloud Engineer Intern at **Demonware (Activision Blizzard)**, working on Platform Infrastructure for Call of Duty's online services
+- 🎮 Cloud Engineer Intern @ **Demonware (Activision Blizzard)**, working on Platform Infrastructure for Call of Duty's online services
 - 🎓 Bachelor of Commerce from the **University of British Columbia** - Finance and Business Technology Management
 - ⚙️ Programming languages I work with: <code>Python</code>, <code>Java</code>, <code>Go</code>, <code>JavaScript/TypeScript</code>, <code>C/C++</code>, <code>SQL</code>
 - 📦 Infrastructure tools I work with: <code>Terraform</code>, <code>Ansible</code>, <code>Docker</code>, <code>Packer</code>
