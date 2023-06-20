@@ -2,8 +2,7 @@
 
 #### I'm a Software Developer based in Vancouver, Canada. I have experience in backend development, platform infrastructure, and DevOps.
 
-I love learning about scalable architecture and how it can help solve complex real-world problems. My goal is to learn as much as possible about programming and eventually become a systems architect! Feel free to reach out to me with any opportunities in programming!
-
+I love learning about scalable architecture and how it can help solve complex real-world problems.
 
 - 🎮 Cloud Engineer Intern @ **Demonware (Activision Blizzard)**, working on Platform Infrastructure for Call of Duty's online services
 - 🎓 Bachelor of Commerce from the **University of British Columbia** - Finance and Business Technology Management
