@@ -7,9 +7,9 @@ I love learning about scalable architecture and how it can help solve complex re
 - 🎮 SWE Intern @ **Activision Blizzard**, working on Platform Infrastructure for Call of Duty
 - 🎓 Bachelor of Computer Science @ **University of British Columbia**
 - ⚙️ Programming languages I work with: <code>Python</code>, <code>Java</code>, <code>Go</code>, <code>JavaScript/TypeScript</code>, <code>C/C++</code>, <code>SQL</code>
-- 📦 Infrastructure tools I work with: <code>Terraform</code>, <code>Ansible</code>, <code>Docker</code>, <code>Packer</code>
+- 📦 Infrastructure tools I work with: <code>Kubernetes</code>, <code>Docker</code>, <code>Terraform</code>, <code>Ansible</code>, <code>Packer</code>
 - ☁️ Cloud computing services I work with: <code>AWS</code>, <code>Azure</code>, <code>GCP</code>, <code>Alibaba Cloud</code>
-- 💻 Web development tools I work with: <code>React</code>, <code>Node</code>, <code>Express</code>, <code>Spring Boot</code>, <code>Rest API</code>,  <code>HTML/CSS</code>
+- 💻 Web development tools I work with: <code>React</code>, <code>Node</code>, <code>Express</code>, <code>Spring Boot</code>, <code>HTML/CSS</code>
 - 📫 Reach me at: shen.leo@outlook.com
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/shen-leo/)
 </br>
