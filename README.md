@@ -1,10 +1,10 @@
 ## Hey everyone, I'm Leo!
 
-#### I'm a Software Developer based in Vancouver, Canada. I have experience in backend development, platform infrastructure, and DevOps.
+#### I'm a Software Developer based in Vancouver, Canada. I have experience in backend development and platform infrastructure.
 
 I love learning about scalable architecture and how it can help solve complex real-world problems.
 
-- 🎮 SWE Intern @ **Activision Blizzard**, working on Platform Infrastructure for Call of Duty
+<!---- 🎮 SWE Intern @ **Activision Blizzard**, working on Platform Infrastructure for Call of Duty--->
 - 🎓 Bachelor of Computer Science @ **University of British Columbia**
 - ⚙️ Programming languages I work with: <code>Python</code>, <code>Java</code>, <code>Go</code>, <code>JavaScript/TypeScript</code>, <code>C/C++</code>, <code>SQL</code>
 - 📦 Infrastructure tools I work with: <code>Kubernetes</code>, <code>Docker</code>, <code>Terraform</code>, <code>Ansible</code>, <code>Packer</code>
